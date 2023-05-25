@@ -1,0 +1,20 @@
+body{
+  background-image: url('gra.jpg');
+  background-repeat: no-repeat;
+  background-size: 5500px 5000px;
+}
+a {
+      text-decoration: none;
+      color: lightblue;
+      font-size: 50px;
+      border: 1px solid gray;
+
+    }
+div {
+  width: 320px;
+  padding: 10px;
+  border: 20px solid white;
+  margin: 0;
+  background-color: white;
+
+} 
